@@ -1,0 +1,16 @@
+
+# Streamlit credentials
+.streamlit/secrets.toml
+secrets.toml
+*.env
+.env
+.env.*
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
